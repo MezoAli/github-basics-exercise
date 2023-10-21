@@ -1,1 +1,1 @@
-test for remote tracking branch
+test for remote tracking branch with conflicts
