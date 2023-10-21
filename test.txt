@@ -1,1 +1,2 @@
 hi test file
+test for remote tracking branch with conflicts
